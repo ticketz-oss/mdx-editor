@@ -1,6 +1,13 @@
 {
-  "name": "@mdxeditor/editor",
+  "name": "@ticketz-oss/mdx-editor",
   "author": "Petyo Ivanov",
+  "contribuors": [
+    {
+      "name": "Claudemir Todo Bom",
+      "email": "claudemir@todobom.com",
+      "comment": "support for react 17"
+    }
+  ],
   "homepage": "https://mdxeditor.dev/",
   "bugs": {
     "url": "https://github.com/mdx-editor/editor/issues",
