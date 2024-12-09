@@ -164,7 +164,6 @@
     "vitest": "^1.1.1"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/",
     "access": "public"
   },
   "engines": {
