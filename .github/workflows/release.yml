@@ -50,11 +50,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
-
-      - name: Publish website
-        uses: benc-uk/workflow-dispatch@v1
-        with:
-          workflow: release.yml
-          ref: master
-          token: ${{ secrets.SITE_GH_TOKEN }}
-          repo: mdx-editor/site
