@@ -1,5 +1,6 @@
 {
   "name": "@ticketz-oss/mdx-editor",
+  "version": "3.20.0-ticketz",
   "author": "Petyo Ivanov",
   "contribuors": [
     {
