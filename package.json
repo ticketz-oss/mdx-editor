@@ -164,6 +164,7 @@
     "vitest": "^1.1.1"
   },
   "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
     "access": "public"
   },
   "engines": {
@@ -172,7 +173,7 @@
   "packageManager": "npm@9.5.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mdx-editor/editor.git"
+    "url": "https://github.com/ticketz-oss/mdx-editor.git"
   },
   "release": {
     "branches": [
