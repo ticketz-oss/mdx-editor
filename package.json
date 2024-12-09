@@ -1,6 +1,5 @@
 {
   "name": "@ticketz-oss/mdx-editor",
-  "version": "3.20.0-ticketz",
   "author": "Petyo Ivanov",
   "contribuors": [
     {
@@ -19,7 +18,7 @@
     "*.css"
   ],
   "type": "module",
-  "version": "0.0.0-development",
+  "version": "3.20.0-ticketz",
   "description": "React component for rich text markdown editing",
   "scripts": {
     "build": "vite build",
